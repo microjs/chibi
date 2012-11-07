@@ -1,0 +1,15 @@
+{
+  "name": "chibi",
+  "repo": "microjs/chibi",
+  "description": "A tiny JavaScript micro-framework",
+  "version": "1.0.3",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "chibi.js"
+  ],
+  "main": "chibi.js",
+  "twitter": "@ForbesLindesay",
+  "license": "MIT"
+}

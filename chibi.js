@@ -774,7 +774,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		};
 	}
 
-	// Set Chibi's global namespace here ($)
-	w.$ = chibi;
+	// Set Chibi's export here
+	module.exports = chibi;
 
 }());
